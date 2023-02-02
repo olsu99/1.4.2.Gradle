@@ -4,3 +4,5 @@ conf
 domain
 target
 out
+build
+.gradle
